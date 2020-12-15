@@ -23,8 +23,8 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/chainsx/openwrt-xr819
-  REPO_BRANCH: main
+  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_BRANCH: 19.07
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
